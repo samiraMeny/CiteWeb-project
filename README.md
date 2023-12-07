@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Management System
 
 **Admin Login Details**
@@ -11,3 +12,6 @@
 
 #
 
+=======
+# CiteWeb-project
+>>>>>>> 660735f9ca38d335f698a96afb2e49df692f541d
