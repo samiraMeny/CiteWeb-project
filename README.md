@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Hospital Management System
+# HMS
 
 **Admin Login Details**
 * Email   : admin@mail.com 
